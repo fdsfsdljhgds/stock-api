@@ -1,7 +1,5 @@
 
-```
 flask
 yfinance
 gunicorn
 requests
-```
